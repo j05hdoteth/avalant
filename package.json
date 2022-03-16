@@ -1,0 +1,14 @@
+{
+  "name": "avalant",
+  "type": "module",
+  "version": "1.0.0",
+  "author": "j05h.eth",
+  "license": "MIT",
+  "dependencies": {
+    "mixpanel": "^0.14.0",
+    "node-fetch": "^3.2.3",
+    "sqlite": "^4.0.25",
+    "sqlite3": "^5.0.2",
+    "web3": "^1.7.1"
+  }
+}
